@@ -131,5 +131,8 @@
 #ifndef SERIO_EASYPEN
 # define SERIO_EASYPEN		0x3f
 #endif
+#ifndef SERIO_GPIOUART
+# define SERIO_GPIOUART		0x40
+#endif
 
 #endif
